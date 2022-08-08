@@ -10,7 +10,7 @@ var webkit = false;
 var moz = false;
 var v = null;
 var hname = window.location.hostname;
-if (hname !== 'fauzan-cell.github.io') {
+if (hname !== 'qe3u.github.io') {
     alert('100% bajakan!!');
     window.location.replace('https://fauzan-cell.github.io')
 };
